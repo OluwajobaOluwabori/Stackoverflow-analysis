@@ -4,14 +4,11 @@
 
 The enclosed data set is the complete, cleaned results of the 2022 Stack Overflow Developer Survey. Free response submissions and personally-identifying information was removed from the results by stackoverflow to protect the privacy of respondents. There are three files besides this README:
 
-1. survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer.
-2. survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name. Column "question" provides more info to what the columns in the dataset mean, i.e.,"qname".
-3. so_survey_2022.pdf - PDF file of the survey instrument.
-4. BreakIntoTech - .py file with the necessary codes to obtain the final analysis.
+
 1. survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer. This data can be downloaded [here](https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2022.zip)
-2. survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name
+2. survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name. Column "question" provides more info to what the columns in the dataset mean, i.e.,"qname".
 3. so_survey_2022.pdf - PDF file of the survey instrument
-4. BreakIntoTech - .ipynb file with the necessary codes to obtain the final analysis.
+4. BreakIntoTech - .py file with the necessary codes to obtain the final analysis.
 
 The survey was fielded from May 11, 2022 to June 1, 2022. 
 
